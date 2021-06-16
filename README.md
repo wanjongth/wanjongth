@@ -1,4 +1,3 @@
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanjongth%2Fhit-counter&count_bg=%2351505D&title_bg=%23806868&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
   [![Wanjongth github stats](https://github-readme-stats.vercel.app/api?username=wanjongth)](https://github.com/wanjongth/github-readme-stats)
  
